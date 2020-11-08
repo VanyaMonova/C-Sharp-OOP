@@ -1,0 +1,11 @@
+C:\Users\HP\Downloads\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.exe
+C:\Users\HP\Downloads\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.deps.json
+C:\Users\HP\Downloads\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.json
+C:\Users\HP\Downloads\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.dev.json
+C:\Users\HP\Downloads\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.dll
+C:\Users\HP\Downloads\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.pdb
+C:\Users\HP\Downloads\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfo.cs
+C:\Users\HP\Downloads\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.dll
+C:\Users\HP\Downloads\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.pdb
