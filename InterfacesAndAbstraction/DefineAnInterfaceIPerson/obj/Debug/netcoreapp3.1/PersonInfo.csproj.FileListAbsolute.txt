@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\InterfacesAndAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.exe
+C:\Users\HP\source\repos\InterfacesAndAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+C:\Users\HP\source\repos\InterfacesAndAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+C:\Users\HP\source\repos\InterfacesAndAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+C:\Users\HP\source\repos\InterfacesAndAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\HP\source\repos\InterfacesAndAbstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Users\HP\source\repos\InterfacesAndAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\InterfacesAndAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\InterfacesAndAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+C:\Users\HP\source\repos\InterfacesAndAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Users\HP\source\repos\InterfacesAndAbstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\PersonInfo.pdb
