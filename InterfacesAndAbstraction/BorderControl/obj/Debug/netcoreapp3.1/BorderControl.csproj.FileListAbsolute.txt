@@ -1,0 +1,5 @@
+C:\Users\HP\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+C:\Users\HP\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.dll
+C:\Users\HP\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.pdb
